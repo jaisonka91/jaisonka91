@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm [**Jaison Abraham**]([https://jaisonka91.github.io/]) And I'm a front-end developer.
+
+<div align="center">
+
+## ⚡️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,md,tailwind,git,vscode,figma)](https://skillicons.dev)
+
+</div>
+
