@@ -21,7 +21,7 @@ I'm [**Jaison Abraham**]([https://jaisonka91.github.io/]) And I'm a front-end de
 
 ## ⚡️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,sass,md,tailwind,git,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,sass,redux,md,tailwind,webpack,git,vscode,figma,aws,babel)](https://skillicons.dev)
 
 </div>
 
